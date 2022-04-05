@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "quiz",
   "version": "1.0.0",
   "description": "React example starter project",
   "private": true,
@@ -7,7 +7,6 @@
     "react",
     "starter"
   ],
-  "main": "src/index.js",
   "dependencies": {
     "@emotion/react": "11.8.2",
     "@emotion/styled": "11.8.1",
